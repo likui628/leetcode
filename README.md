@@ -4,4 +4,4 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./algorithms/two-sum/javascript/two-sum.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./algorithms/two-sum/javascript/two-sum.js), [C++](./algorithms/two-sum/cpp/two-sum.cpp)|Easy|
