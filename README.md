@@ -12,6 +12,7 @@ LeetCode Problems' Solutions
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/rust/majority-element.rs)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/javascript/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/cpp/delete-node-in-a-linked-list.cpp)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/rust/jewels-and-stones.rs)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Rust](./algorithms/how-many-numbers-are-smaller-than-the-current-number/rust/how-many-numbers-are-smaller-than-the-current-number.rs)|Easy|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/rust/concatenation-of-array.rs)|Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/rust/add-two-integers.rs)|Easy|
 
