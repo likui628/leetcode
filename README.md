@@ -13,6 +13,7 @@ LeetCode Problems' Solutions
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/javascript/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/cpp/delete-node-in-a-linked-list.cpp)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/rust/jewels-and-stones.rs)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Rust](./algorithms/how-many-numbers-are-smaller-than-the-current-number/rust/how-many-numbers-are-smaller-than-the-current-number.rs)|Easy|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Rust](./algorithms/shuffle-the-array/rust/shuffle-the-array.rs)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/rust/shuffle-string.rs)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/rust/check-if-two-string-arrays-are-equivalent.rs)|Easy|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/rust/concatenation-of-array.rs)|Easy|
