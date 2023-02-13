@@ -7,6 +7,7 @@ LeetCode Problems' Solutions
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./algorithms/two-sum/javascript/two-sum.js), [C++](./algorithms/two-sum/cpp/two-sum.cpp), [Java](./algorithms/two-sum/java/two-sum.java), [Rust](./algorithms//two-sum/rust/two-sum.rs)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/javascript/remove-duplicates-from-sorted-array.js), [Rust](./algorithms/remove-duplicates-from-sorted-array/rust/remove-duplicates-from-sorted-array.rs)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/javascript/remove-element.js), [Rust](./algorithms/remove-element/rust/remove-element.rs)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Rust](./algorithms/search-insert-position/rust/search-insert-position.rs)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/javascript/merge-sorted-array.js), [Rust](./algorithms/merge-sorted-array/rust/merge-sorted-array.rs)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/javascript/single-number.js), [Rust](./algorithms/single-number/rust/single-number.rs)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/rust/majority-element.rs)|Easy|
