@@ -11,6 +11,7 @@ LeetCode Problems' Solutions
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/javascript/single-number.js), [Rust](./algorithms/single-number/rust/single-number.rs)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/rust/majority-element.rs)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Rust](./algorithms/contains-duplicate/rust/contains-duplicate.rs)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Rust](./algorithms/contains-duplicate-ii/rust/contains-duplicate-ii.rs)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/javascript/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/cpp/delete-node-in-a-linked-list.cpp)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/rust/jewels-and-stones.rs)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Rust](./algorithms/how-many-numbers-are-smaller-than-the-current-number/rust/how-many-numbers-are-smaller-than-the-current-number.rs)|Easy|
