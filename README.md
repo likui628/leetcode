@@ -24,6 +24,7 @@ LeetCode Problems' Solutions
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
 |[2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[Javascript](./algorithms/filter-elements-from-array/filter-elements-from-array.js)|Easy|
+|[2637. Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)|[Javascript](./algorithms/promise-time-limit/promise-time-limit.js)|Easy|
 |[2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[Javascript](./algorithms/return-length-of-arguments-passed/arguments-length.js)|Easy|
 |[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/to-be-or-not-to-be.js)|Easy|
 |[2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)|[Javascript](./algorithms/add-two-promises/add-two-promises.js)|Easy|
