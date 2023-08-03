@@ -19,6 +19,7 @@ LeetCode Problems' Solutions
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Rust](./algorithms/shuffle-the-array/rust/shuffle-the-array.rs)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/rust/shuffle-string.rs)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/rust/check-if-two-string-arrays-are-equivalent.rs)|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./algorithms/recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql)|Easy|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/rust/concatenation-of-array.rs)|Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/rust/add-two-integers.rs)|Easy|
 |2545|[Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/rust/sort-the-students-by-their-kth-score.rs)|Medium|
