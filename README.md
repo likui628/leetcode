@@ -24,4 +24,5 @@ LeetCode Problems' Solutions
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/rust/add-two-integers.rs)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/rust/sort-the-students-by-their-kth-score.rs)|Medium|
 |[2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[Javascript](./algorithms/return-length-of-arguments-passed/javascript/arguments-length.js)|Easy|
+|[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/javascript/to-be-or-not-to-be.js)|Easy|
 
