@@ -23,6 +23,7 @@ LeetCode Problems' Solutions
 |[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/concatenation-of-array.rs)|Easy|
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
+|[2620. Counter](https://leetcode.com/problems/counter)|[Javascript](./algorithms/counter/counter.js)|Easy|
 |[2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[Javascript](./algorithms/filter-elements-from-array/filter-elements-from-array.js)|Easy|
 |[2637. Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)|[Javascript](./algorithms/promise-time-limit/promise-time-limit.js)|Easy|
 |[2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[Javascript](./algorithms/create-hello-world-function/create-hello-world-function.js)|Easy|
