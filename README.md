@@ -23,6 +23,7 @@ LeetCode Problems' Solutions
 |[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/concatenation-of-array.rs)|Easy|
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
+|[2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[Javascript](./algorithms/array-prototype-last/array-prototype-last.js)|Easy|
 |[2620. Counter](https://leetcode.com/problems/counter)|[Javascript](./algorithms/counter/counter.js)|Easy|
 |[2621. Sleep](https://leetcode.com/problems/sleep/)|[Javascript](./algorithms/sleep/sleep.js)|Easy|
 |[2623. Memoize](https://leetcode.com/problems/memoize/)|[Javascript](./algorithms/memoize/memoize.js)|Medium|
