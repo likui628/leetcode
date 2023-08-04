@@ -40,6 +40,7 @@ LeetCode Problems' Solutions
 |[2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[Javascript](./algorithms/return-length-of-arguments-passed/arguments-length.js)|Easy|
 |[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/to-be-or-not-to-be.js)|Easy|
 |[2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)|[Javascript](./algorithms/add-two-promises/add-two-promises.js)|Easy|
+|[2724. Sort By](https://leetcode.com/problems/sort-by/)|[Javascript](./algorithms/sort-by/sort-by.js)|Easy|
 |[2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)|[Javascript](./algorithms/calculator-with-method-chaining/calculator-with-method-chaining.js)|Easy|
 |[2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)|[Javascript](./algorithms/is-object-empty/is-object-empty.js)|Easy|
 
