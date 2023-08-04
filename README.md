@@ -25,6 +25,7 @@ LeetCode Problems' Solutions
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
 |[2620. Counter](https://leetcode.com/problems/counter)|[Javascript](./algorithms/counter/counter.js)|Easy|
 |[2621. Sleep](https://leetcode.com/problems/sleep/)|[Javascript](./algorithms/sleep/sleep.js)|Easy|
+|[2623. Memoize](https://leetcode.com/problems/memoize/)|[Javascript](./algorithms/memoize/memoize.js)|Medium|
 |[2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](./algorithms/array-reduce-transformation/array-reduce-transformation.js)|Easy|
 |[2629. Function Composition](https://leetcode.com/problems/function-composition/)|[Javascript](./algorithms/function-composition/function-composition.js)|Easy|
 |[2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[Javascript](./algorithms/filter-elements-from-array/filter-elements-from-array.js)|Easy|
