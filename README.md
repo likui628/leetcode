@@ -26,6 +26,7 @@ LeetCode Problems' Solutions
 |[2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[Javascript](./algorithms/array-prototype-last/array-prototype-last.js)|Easy|
 |[2620. Counter](https://leetcode.com/problems/counter)|[Javascript](./algorithms/counter/counter.js)|Easy|
 |[2621. Sleep](https://leetcode.com/problems/sleep/)|[Javascript](./algorithms/sleep/sleep.js)|Easy|
+|[2622. Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[Javascript](./algorithms/cache-with-time-limit/cache-with-time-limit.js)|Medium|
 |[2623. Memoize](https://leetcode.com/problems/memoize/)|[Javascript](./algorithms/memoize/memoize.js)|Medium|
 |[2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](./algorithms/array-reduce-transformation/array-reduce-transformation.js)|Easy|
 |[2629. Function Composition](https://leetcode.com/problems/function-composition/)|[Javascript](./algorithms/function-composition/function-composition.js)|Easy|
