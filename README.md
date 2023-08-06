@@ -44,6 +44,7 @@ LeetCode Problems' Solutions
 |[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/to-be-or-not-to-be.js)|Easy|
 |[2715. Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/)|[Javascript](./algorithms/timeout-cancellation/timeout-cancellation.js)|Easy|
 |[2721. Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/)|[Javascript](./algorithms/execute-asynchronous-functions-in-parallel/execute-asynchronous-functions-in-parallel.js)|Medium|
+|[2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/)|[Javascript](./algorithms/join-two-arrays-by-id/join-two-arrays-by-id.js)|Medium|
 |[2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)|[Javascript](./algorithms/add-two-promises/add-two-promises.js)|Easy|
 |[2724. Sort By](https://leetcode.com/problems/sort-by/)|[Javascript](./algorithms/sort-by/sort-by.js)|Easy|
 |[2725. Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)|[Javascript](./algorithms/interval-cancellation/interval-cancellation.js)|Easy|
