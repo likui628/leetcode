@@ -31,6 +31,7 @@ LeetCode Problems' Solutions
 |[2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](./algorithms/array-reduce-transformation/array-reduce-transformation.js)|Easy|
 |[2627. Debounce](https://leetcode.com/problems/debounce/)|[Javascript](./algorithms/debounce/debounce.js)|Medium|
 |[2629. Function Composition](https://leetcode.com/problems/function-composition/)|[Javascript](./algorithms/function-composition/function-composition.js)|Easy|
+|[2631. Group By](https://leetcode.com/problems/group-by/)|[Javascript](./algorithms/group-by/group-by.js)|Medium|
 |[2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[Javascript](./algorithms/filter-elements-from-array/filter-elements-from-array.js)|Easy|
 |[2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[Javascript](./algorithms/apply-transform-over-each-element-in-array/apply-transform-over-each-element-in-array.js)|Easy|
 |[2637. Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)|[Javascript](./algorithms/promise-time-limit/promise-time-limit.js)|Easy|
