@@ -8,6 +8,7 @@ LeetCode Problems' Solutions
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js), [Rust](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs)|Easy|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/remove-element.js), [Rust](./algorithms/remove-element/remove-element.rs)|Easy|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Rust](./algorithms/search-insert-position/search-insert-position.rs)|Easy|
+|[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Javascript](./algorithms/search-a-2d-matrix/search-a-2d-matrix.js)|Medium|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/merge-sorted-array.js), [Rust](./algorithms/merge-sorted-array/merge-sorted-array.rs)|Easy|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/single-number.js), [Rust](./algorithms/single-number/single-number.rs)|Easy|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/majority-element.rs)|Easy|
