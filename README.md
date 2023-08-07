@@ -40,6 +40,7 @@ LeetCode Problems' Solutions
 |[2666. Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)|[Javascript](./algorithms/allow-one-function-call/allow-one-function-call.js)|Easy|
 |[2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[Javascript](./algorithms/create-hello-world-function/create-hello-world-function.js)|Easy|
 |[2677. Chunk Array](https://leetcode.com/problems/chunk-array/)|[Javascript](./algorithms/chunk-array/chunk-array.js)|Easy|
+|[2694. Event Emitter](https://leetcode.com/problems/event-emitter/)|[Javascript](./algorithms/event-emitter/event-emitter.js)|Medium|
 |[2695. Array Wrapper](https://leetcode.com/problems/array-wrapper/)|[Javascript](./algorithms/array-wrapper/array-wrapper.js)|Easy|
 |[2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[Javascript](./algorithms/return-length-of-arguments-passed/arguments-length.js)|Easy|
 |[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/to-be-or-not-to-be.js)|Easy|
