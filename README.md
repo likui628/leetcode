@@ -43,6 +43,7 @@ LeetCode Problems' Solutions
 |[2695. Array Wrapper](https://leetcode.com/problems/array-wrapper/)|[Javascript](./algorithms/array-wrapper/array-wrapper.js)|Easy|
 |[2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[Javascript](./algorithms/return-length-of-arguments-passed/arguments-length.js)|Easy|
 |[2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)|[Javascript](./algorithms/to-be-or-not-to-be/to-be-or-not-to-be.js)|Easy|
+|[2705. Compact Object](https://leetcode.com/problems/compact-object/)|[Javascript](./algorithms/compact-object/compact-object.js)|Medium|
 |[2715. Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/)|[Javascript](./algorithms/timeout-cancellation/timeout-cancellation.js)|Easy|
 |[2721. Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/)|[Javascript](./algorithms/execute-asynchronous-functions-in-parallel/execute-asynchronous-functions-in-parallel.js)|Medium|
 |[2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/)|[Javascript](./algorithms/join-two-arrays-by-id/join-two-arrays-by-id.js)|Medium|
