@@ -15,7 +15,7 @@ LeetCode Problems' Solutions
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Rust](./algorithms/contains-duplicate/contains-duplicate.rs)|Easy|
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Rust](./algorithms/contains-duplicate-ii/contains-duplicate-ii.rs)|Easy|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp)|Easy|
-|[344. Reverse String](https://leetcode.cn/problems/reverse-string/)|[Javascript](./algorithms/reverse-string/reverse-string.js)|Easy|
+|[344. Reverse String](https://leetcode.cn/problems/reverse-string/)|[Javascript](./algorithms/reverse-string/reverse-string.js), [Rust](./algorithms/reverse-string/reverse-string.rs)|Easy|
 |[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MySQL](./algorithms/find-customer-referee/find-customer-referee.sql)|Easy|
 |[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./algorithms/not-boring-movies/not-boring-movies.sql)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
