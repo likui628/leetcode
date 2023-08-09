@@ -18,6 +18,7 @@ LeetCode Problems' Solutions
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Rust](./algorithms/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.rs)|Easy|
 |[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Rust](./algorithms/shuffle-the-array/shuffle-the-array.rs)|Easy|
+|[1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./algorithms/find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql)|Easy|
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/shuffle-string.rs)|Easy|
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./algorithms/recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql)|Easy|
