@@ -17,6 +17,7 @@ LeetCode Problems' Solutions
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp)|Easy|
 |[344. Reverse String](https://leetcode.cn/problems/reverse-string/)|[Javascript](./algorithms/reverse-string/reverse-string.js), [Rust](./algorithms/reverse-string/reverse-string.rs)|Easy|
 |[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MySQL](./algorithms/find-customer-referee/find-customer-referee.sql)|Easy|
+|[595. Big Countries](https://leetcode.cn/problems/big-countries/)|[MySQL](./algorithms/big-countries/big-countries.sql)|Easy|
 |[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./algorithms/not-boring-movies/not-boring-movies.sql)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[MySQL](./algorithms/article-views-i/article-views-i.sql)|Easy|
