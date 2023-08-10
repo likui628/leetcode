@@ -28,6 +28,7 @@ LeetCode Problems' Solutions
 |[1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./algorithms/find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql)|Easy|
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/shuffle-string.rs)|Easy|
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
+|[1683. Invalid Tweets](https://leetcode.cn/problems/invalid-tweets/)|[MySQL](./algorithms/invalid-tweets/invalid-tweets.sql)|Easy|
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./algorithms/recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql)|Easy|
 |[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/concatenation-of-array.rs)|Easy|
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
