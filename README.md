@@ -44,6 +44,7 @@ LeetCode Problems' Solutions
 |[2625. Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)|[Javascript](./algorithms/flatten-deeply-nested-array/flatten-deeply-nested-array.js)|Medium|
 |[2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](./algorithms/array-reduce-transformation/array-reduce-transformation.js)|Easy|
 |[2627. Debounce](https://leetcode.com/problems/debounce/)|[Javascript](./algorithms/debounce/debounce.js)|Medium|
+|[2628. JSON Deep Equal](https://leetcode.cn/problems/json-deep-equal/)|[Javascript](./algorithms/json-deep-equal/json-deep-equal.js)|Medium|
 |[2629. Function Composition](https://leetcode.com/problems/function-composition/)|[Javascript](./algorithms/function-composition/function-composition.js)|Easy|
 |[2631. Group By](https://leetcode.com/problems/group-by/)|[Javascript](./algorithms/group-by/group-by.js)|Medium|
 |[2633. Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/)|[Javascript](./algorithms/convert-object-to-json-string/convert-object-to-json-string.js)|Medium|
