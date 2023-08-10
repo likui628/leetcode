@@ -47,6 +47,7 @@ LeetCode Problems' Solutions
 |[2628. JSON Deep Equal](https://leetcode.cn/problems/json-deep-equal/)|[Javascript](./algorithms/json-deep-equal/json-deep-equal.js)|Medium|
 |[2629. Function Composition](https://leetcode.com/problems/function-composition/)|[Javascript](./algorithms/function-composition/function-composition.js)|Easy|
 |[2631. Group By](https://leetcode.com/problems/group-by/)|[Javascript](./algorithms/group-by/group-by.js)|Medium|
+|[2632. Curry](https://leetcode.cn/problems/curry/)|[Javascript](./algorithms/curry/curry.js)|Medium|
 |[2633. Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/)|[Javascript](./algorithms/convert-object-to-json-string/convert-object-to-json-string.js)|Medium|
 |[2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[Javascript](./algorithms/filter-elements-from-array/filter-elements-from-array.js)|Easy|
 |[2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[Javascript](./algorithms/apply-transform-over-each-element-in-array/apply-transform-over-each-element-in-array.js)|Easy|
