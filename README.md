@@ -28,6 +28,7 @@ LeetCode Problems' Solutions
 |[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Rust](./algorithms/shuffle-the-array/shuffle-the-array.rs)|Easy|
 |[1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./algorithms/find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql)|Easy|
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/shuffle-string.rs)|Easy|
+|[1572. Matrix Diagonal Sum](https://leetcode.cn/problems/matrix-diagonal-sum/)|[Javascript](./algorithms/matrix-diagonal-sum/matrix-diagonal-sum.js)|Easy|
 |[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MySQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/customer-who-visited-but-did-not-make-any-transactions.sql)|Easy|
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
 |[1683. Invalid Tweets](https://leetcode.cn/problems/invalid-tweets/)|[MySQL](./algorithms/invalid-tweets/invalid-tweets.sql)|Easy|
