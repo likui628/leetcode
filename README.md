@@ -25,6 +25,7 @@ LeetCode Problems' Solutions
 |[1068. Product Sales Analysis I](https://leetcode.cn/problems/product-sales-analysis-i/)|[MySQL](./algorithms/product-sales-analysis-i/product-sales-analysis-i.sql)|Easy|
 |[1075. Project Employees I](https://leetcode.cn/problems/project-employees-i/)|[MySQL](./algorithms/project-employees-i/project-employees-i.sql)|Easy|
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[MySQL](./algorithms/article-views-i/article-views-i.sql)|Easy|
+|[1211. Queries Quality and Percentage](https://leetcode.cn/problems/queries-quality-and-percentage/)|[MySQL](./algorithms/queries-quality-and-percentage/queries-quality-and-percentage.sql)|Easy|
 |[1251. Average Selling Price](https://leetcode.cn/problems/average-selling-price/)|[MySQL](./algorithms/average-selling-price/average-selling-price.sql)|Easy|
 |[1280. Students and Examinations](https://leetcode.cn/problems/students-and-examinations/)|[MySQL](./algorithms/students-and-examinations/students-and-examinations.sql)|Easy|
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Javascript](./algorithms/subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.js), [Rust](./algorithms/subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.rs)|Easy|
