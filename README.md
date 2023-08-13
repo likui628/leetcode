@@ -22,6 +22,7 @@ LeetCode Problems' Solutions
 |[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./algorithms/not-boring-movies/not-boring-movies.sql)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1068. Product Sales Analysis I](https://leetcode.cn/problems/product-sales-analysis-i/)|[MySQL](./algorithms/product-sales-analysis-i/product-sales-analysis-i.sql)|Easy|
+|[1075. Project Employees I](https://leetcode.cn/problems/project-employees-i/)|[MySQL](./algorithms/project-employees-i/project-employees-i.sql)|Easy|
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[MySQL](./algorithms/article-views-i/article-views-i.sql)|Easy|
 |[1251. Average Selling Price](https://leetcode.cn/problems/average-selling-price/)|[MySQL](./algorithms/average-selling-price/average-selling-price.sql)|Easy|
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Javascript](./algorithms/subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.js), [Rust](./algorithms/subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.rs)|Easy|
