@@ -33,6 +33,7 @@ LeetCode Problems' Solutions
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/shuffle-string.rs)|Easy|
 |[1572. Matrix Diagonal Sum](https://leetcode.cn/problems/matrix-diagonal-sum/)|[Javascript](./algorithms/matrix-diagonal-sum/matrix-diagonal-sum.js), [Rust](./algorithms/matrix-diagonal-sum/matrix-diagonal-sum.rs)|Easy|
 |[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MySQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/customer-who-visited-but-did-not-make-any-transactions.sql)|Easy|
+|[1633. Percentage of Users Attended a Contest](https://leetcode.cn/problems/percentage-of-users-attended-a-contest/)|[MySQL](./algorithms/percentage-of-users-attended-a-contest/percentage-of-users-attended-a-contest.sql)|Easy|
 |[1661. Average Time of Process per Machine](https://leetcode.cn/problems/average-time-of-process-per-machine/)|[MySQL](./algorithms/average-time-of-process-per-machine/average-time-of-process-per-machine.sql)|Easy|
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
 |[1683. Invalid Tweets](https://leetcode.cn/problems/invalid-tweets/)|[MySQL](./algorithms/invalid-tweets/invalid-tweets.sql)|Easy|
