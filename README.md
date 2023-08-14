@@ -20,6 +20,7 @@ LeetCode Problems' Solutions
 |[577. Employee Bonus](https://leetcode.cn/problems/employee-bonus/)|[MySQL](./algorithms/employee-bonus/employee-bonus.sql)|Easy|
 |[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MySQL](./algorithms/find-customer-referee/find-customer-referee.sql)|Easy|
 |[595. Big Countries](https://leetcode.cn/problems/big-countries/)|[MySQL](./algorithms/big-countries/big-countries.sql)|Easy|
+|[617. Merge Two Binary Trees](https://leetcode.cn/problems/merge-two-binary-trees/)|[Javascript](./algorithms/merge-two-binary-trees/merge-two-binary-trees.js)|Easy|
 |[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./algorithms/not-boring-movies/not-boring-movies.sql)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1068. Product Sales Analysis I](https://leetcode.cn/problems/product-sales-analysis-i/)|[MySQL](./algorithms/product-sales-analysis-i/product-sales-analysis-i.sql)|Easy|
