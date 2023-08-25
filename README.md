@@ -26,6 +26,7 @@ LeetCode Problems' Solutions
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1068. Product Sales Analysis I](https://leetcode.cn/problems/product-sales-analysis-i/)|[MySQL](./algorithms/product-sales-analysis-i/product-sales-analysis-i.sql)|Easy|
 |[1075. Project Employees I](https://leetcode.cn/problems/project-employees-i/)|[MySQL](./algorithms/project-employees-i/project-employees-i.sql)|Easy|
+|[1141. User Activity for the Past 30 Days I](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/)|[MySQL](./algorithms/user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql)|Easy|
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[MySQL](./algorithms/article-views-i/article-views-i.sql)|Easy|
 |[1211. Queries Quality and Percentage](https://leetcode.cn/problems/queries-quality-and-percentage/)|[MySQL](./algorithms/queries-quality-and-percentage/queries-quality-and-percentage.sql)|Easy|
 |[1251. Average Selling Price](https://leetcode.cn/problems/average-selling-price/)|[MySQL](./algorithms/average-selling-price/average-selling-price.sql)|Easy|
