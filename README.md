@@ -23,6 +23,7 @@ LeetCode Problems' Solutions
 |[595. Big Countries](https://leetcode.cn/problems/big-countries/)|[MySQL](./algorithms/big-countries/big-countries.sql)|Easy|
 |[596. Classes More Than 5 Students](https://leetcode.cn/problems/classes-more-than-5-students/)|[MySQL](./algorithms/classes-more-than-5-students/classes-more-than-5-students.sql)|Easy|
 |[617. Merge Two Binary Trees](https://leetcode.cn/problems/merge-two-binary-trees/)|[Javascript](./algorithms/merge-two-binary-trees/merge-two-binary-trees.js)|Easy|
+|[619. Biggest Single Number](https://leetcode.cn/problems/biggest-single-number/)|[MySQL](./algorithms/biggest-single-number/biggest-single-number.sql)|Easy|
 |[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./algorithms/not-boring-movies/not-boring-movies.sql)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Rust](./algorithms/jewels-and-stones/jewels-and-stones.rs)|Easy|
 |[1068. Product Sales Analysis I](https://leetcode.cn/problems/product-sales-analysis-i/)|[MySQL](./algorithms/product-sales-analysis-i/product-sales-analysis-i.sql)|Easy|
