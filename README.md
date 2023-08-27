@@ -52,6 +52,7 @@ LeetCode Problems' Solutions
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./algorithms/recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql)|Easy|
 |[1789. Primary Department for Each Employee](https://leetcode.cn/problems/primary-department-for-each-employee/)|[MySQL](./algorithms/primary-department-for-each-employee/primary-department-for-each-employee.sql)|Easy|
 |[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/concatenation-of-array.rs)|Easy|
+|[1978. Employees Whose Manager Left the Company](https://leetcode.cn/problems/employees-whose-manager-left-the-company/)|[MySQL](./algorithms/employees-whose-manager-left-the-company/employees-whose-manager-left-the-company.sql)|Easy|
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
 |[2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher/)|[MySQL](./algorithms/number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
