@@ -47,6 +47,7 @@ LeetCode Problems' Solutions
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
 |[1683. Invalid Tweets](https://leetcode.cn/problems/invalid-tweets/)|[MySQL](./algorithms/invalid-tweets/invalid-tweets.sql)|Easy|
 |[1729. Find Followers Count](https://leetcode.cn/problems/find-followers-count/)|[MySQL](./algorithms/find-followers-count/find-followers-count.sql)|Easy|
+|[1731. The Number of Employees Which Report to Each Employee](https://leetcode.cn/problems/the-number-of-employees-which-report-to-each-employee/)|[MySQL](./algorithms/the-number-of-employees-which-report-to-each-employee/the-number-of-employees-which-report-to-each-employee.sql)|Easy|
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./algorithms/recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql)|Easy|
 |[1789. Primary Department for Each Employee](https://leetcode.cn/problems/primary-department-for-each-employee/)|[MySQL](./algorithms/primary-department-for-each-employee/primary-department-for-each-employee.sql)|Easy|
 |[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Rust](./algorithms/concatenation-of-array/concatenation-of-array.rs)|Easy|
