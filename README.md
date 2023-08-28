@@ -46,6 +46,7 @@ LeetCode Problems' Solutions
 |[1633. Percentage of Users Attended a Contest](https://leetcode.cn/problems/percentage-of-users-attended-a-contest/)|[MySQL](./algorithms/percentage-of-users-attended-a-contest/percentage-of-users-attended-a-contest.sql)|Easy|
 |[1661. Average Time of Process per Machine](https://leetcode.cn/problems/average-time-of-process-per-machine/)|[MySQL](./algorithms/average-time-of-process-per-machine/average-time-of-process-per-machine.sql)|Easy|
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Rust](./algorithms/check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.rs)|Easy|
+|[1667. Fix Names in a Table](https://leetcode.cn/problems/fix-names-in-a-table/)|[MySQL](./algorithms/fix-names-in-a-table/fix-names-in-a-table.sql)|Easy|
 |[1683. Invalid Tweets](https://leetcode.cn/problems/invalid-tweets/)|[MySQL](./algorithms/invalid-tweets/invalid-tweets.sql)|Easy|
 |[1729. Find Followers Count](https://leetcode.cn/problems/find-followers-count/)|[MySQL](./algorithms/find-followers-count/find-followers-count.sql)|Easy|
 |[1731. The Number of Employees Which Report to Each Employee](https://leetcode.cn/problems/the-number-of-employees-which-report-to-each-employee/)|[MySQL](./algorithms/the-number-of-employees-which-report-to-each-employee/the-number-of-employees-which-report-to-each-employee.sql)|Easy|
