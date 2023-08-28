@@ -12,6 +12,7 @@ LeetCode Problems' Solutions
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/merge-sorted-array.js), [Rust](./algorithms/merge-sorted-array/merge-sorted-array.rs)|Easy|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/single-number.js), [Rust](./algorithms/single-number/single-number.rs)|Easy|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/majority-element.rs)|Easy|
+|[196. Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails/)|[MySQL](./algorithms/delete-duplicate-emails/delete-duplicate-emails.sql)|Easy|
 |[197. Rising Temperature](https://leetcode.cn/problems/rising-temperature/)|[MySQL](./algorithms/rising-temperature/rising-temperature.sql)|Easy|
 |[215. Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|[Javascript](./algorithms/kth-largest-element-in-an-array/kth-largest-element-in-an-array.js)|Medium|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Rust](./algorithms/contains-duplicate/contains-duplicate.rs)|Easy|
