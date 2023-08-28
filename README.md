@@ -40,6 +40,7 @@ LeetCode Problems' Solutions
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Rust](./algorithms/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.rs)|Easy|
 |[1378. Replace Employee ID With The Unique Identifier](https://leetcode.cn/problems/replace-employee-id-with-the-unique-identifier/)|[MySQL](./algorithms/replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql)|Easy|
 |[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Rust](./algorithms/shuffle-the-array/shuffle-the-array.rs)|Easy|
+|[1484. Group Sold Products By The Date](https://leetcode.cn/problems/group-sold-products-by-the-date/)|[MySQL](./algorithms/group-sold-products-by-the-date/group-sold-products-by-the-date.sql)|Easy|
 |[1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./algorithms/find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql)|Easy|
 |[1527. Patients With a Condition](https://leetcode.cn/problems/patients-with-a-condition/)|[MySQL](./algorithms/patients-with-a-condition/patients-with-a-condition.sql)|Easy|
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Rust](./algorithms/shuffle-string/shuffle-string.rs)|Easy|
