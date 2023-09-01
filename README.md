@@ -5,6 +5,7 @@ LeetCode Problems' Solutions
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./algorithms/two-sum/two-sum.js), [C++](./algorithms/two-sum/two-sum.cpp), [Java](./algorithms/two-sum/two-sum.java), [Rust](./algorithms//two-sum/two-sum.rs)|Easy|
+|[2. Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/)|[Javascript](./algorithms/add-two-numbers/add-two-numbers.js)|Medium|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js), [Rust](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs)|Easy|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/remove-element.js), [Rust](./algorithms/remove-element/remove-element.rs)|Easy|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Rust](./algorithms/search-insert-position/search-insert-position.rs)|Easy|
