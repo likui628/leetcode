@@ -97,4 +97,5 @@ LeetCode Problems' Solutions
 |[2725. Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)|[Javascript](./algorithms/interval-cancellation/interval-cancellation.js)|Easy|
 |[2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)|[Javascript](./algorithms/calculator-with-method-chaining/calculator-with-method-chaining.js)|Easy|
 |[2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)|[Javascript](./algorithms/is-object-empty/is-object-empty.js)|Easy|
+|[2796. Repeat String](https://leetcode.cn/problems/repeat-string/)|[JavaScript](./algorithms/repeat-string/repeat-string.js)|Easy|
 
