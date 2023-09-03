@@ -8,6 +8,7 @@ LeetCode Problems' Solutions
 |[2. Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/)|[JavaScript](./algorithms/add-two-numbers/add-two-numbers.js)|Medium|
 |[20. Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses/valid-parentheses.js)|Easy|
 |[21. Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists/merge-two-sorted-lists.js)|Easy|
+|[24. Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)|[JavaScript](./algorithms/swap-nodes-in-pairs/swap-nodes-in-pairs.js)|Medium|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js), [Rust](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs)|Easy|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/remove-element.js), [Rust](./algorithms/remove-element/remove-element.rs)|Easy|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Rust](./algorithms/search-insert-position/search-insert-position.rs)|Easy|
