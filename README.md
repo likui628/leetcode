@@ -12,6 +12,7 @@ LeetCode Problems' Solutions
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js), [Rust](./algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs)|Easy|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/remove-element.js), [Rust](./algorithms/remove-element/remove-element.rs)|Easy|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Rust](./algorithms/search-insert-position/search-insert-position.rs)|Easy|
+|[36. Valid Sudoku](https://leetcode.cn/problems/valid-sudoku/)|[JavaScript](./algorithms/valid-sudoku/valid-sudoku.js)|Medium|
 |[48. Rotate Image](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image/rotate-image.js)|Medium|
 |[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Javascript](./algorithms/search-a-2d-matrix/search-a-2d-matrix.js)|Medium|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/merge-sorted-array.js), [Rust](./algorithms/merge-sorted-array/merge-sorted-array.rs)|Easy|
