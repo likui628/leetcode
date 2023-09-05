@@ -66,6 +66,7 @@ LeetCode Problems' Solutions
 |[2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Rust](./algorithms/add-two-integers/add-two-integers.rs)|Easy|
 |[2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher/)|[MySQL](./algorithms/number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql)|Easy|
 |[2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Rust](./algorithms/sort-the-students-by-their-kth-score/sort-the-students-by-their-kth-score.rs)|Medium|
+|[2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)|[JavaScript](./algorithms/form-smallest-number-from-two-digit-arrays/form-smallest-number-from-two-digit-arrays.js)|Easy|
 |[2618. Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/)|[Javascript](./algorithms/check-if-object-instance-of-class/check-if-object-instance-of-class.js)|Medium|
 |[2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[Javascript](./algorithms/array-prototype-last/array-prototype-last.js)|Easy|
 |[2620. Counter](https://leetcode.com/problems/counter)|[Javascript](./algorithms/counter/counter.js)|Easy|
