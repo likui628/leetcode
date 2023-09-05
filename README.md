@@ -6,6 +6,7 @@ LeetCode Problems' Solutions
 | ----- | -------- | ---------- |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./algorithms/two-sum/two-sum.js), [C++](./algorithms/two-sum/two-sum.cpp), [Java](./algorithms/two-sum/two-sum.java), [Rust](./algorithms//two-sum/two-sum.rs)|Easy|
 |[2. Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/)|[JavaScript](./algorithms/add-two-numbers/add-two-numbers.js)|Medium|
+|[11. Container With Most Water](https://leetcode.cn/problems/container-with-most-water/)|[JavaScript](./algorithms/container-with-most-water/container-with-most-water.js)|Medium|
 |[20. Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses/valid-parentheses.js)|Easy|
 |[21. Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists/merge-two-sorted-lists.js)|Easy|
 |[24. Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)|[JavaScript](./algorithms/swap-nodes-in-pairs/swap-nodes-in-pairs.js)|Medium|
