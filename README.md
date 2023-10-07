@@ -28,6 +28,7 @@ LeetCode Problems' Solutions
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Rust](./algorithms/contains-duplicate-ii/contains-duplicate-ii.rs)|Easy|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.js), [C++](./algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp)|Easy|
 |[344. Reverse String](https://leetcode.cn/problems/reverse-string/)|[Javascript](./algorithms/reverse-string/reverse-string.js), [Rust](./algorithms/reverse-string/reverse-string.rs)|Easy|
+|[392. Is Subsequence](https://leetcode.cn/problems/is-subsequence/)|[JavaScript](./algorithms/is-subsequence/is-subsequence.js)|Easy|
 |[577. Employee Bonus](https://leetcode.cn/problems/employee-bonus/)|[MySQL](./algorithms/employee-bonus/employee-bonus.sql)|Easy|
 |[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MySQL](./algorithms/find-customer-referee/find-customer-referee.sql)|Easy|
 |[595. Big Countries](https://leetcode.cn/problems/big-countries/)|[MySQL](./algorithms/big-countries/big-countries.sql)|Easy|
