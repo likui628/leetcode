@@ -17,6 +17,7 @@ LeetCode Problems' Solutions
 |[48. Rotate Image](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image/rotate-image.js)|Medium|
 |[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Javascript](./algorithms/search-a-2d-matrix/search-a-2d-matrix.js)|Medium|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/merge-sorted-array.js), [Rust](./algorithms/merge-sorted-array/merge-sorted-array.rs)|Easy|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./algorithms/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.js)|Easy|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/single-number.js), [Rust](./algorithms/single-number/single-number.rs)|Easy|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Rust](./algorithms/majority-element/majority-element.rs)|Easy|
 |[196. Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails/)|[MySQL](./algorithms/delete-duplicate-emails/delete-duplicate-emails.sql)|Easy|
